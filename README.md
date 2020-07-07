@@ -7,7 +7,9 @@
     
 ### Source
     Actually this project is from a project_oriented course on the coursera.
-  [Course link]: <https://www.coursera.org/learn/build-a-computer/home/welcome>
+  
+   [Course link] : <https://www.coursera.org/learn/build-a-computer/home/welcome>
     
     For more info:
-  [project website]: <https://www.nand2tetris.org> 
+  
+   [project website] : <https://www.nand2tetris.org> 
